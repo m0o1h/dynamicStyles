@@ -1,5 +1,7 @@
 ﻿# dynamicStyles
 
+##Introduction
+it is a application which fetch data which is locally stored in file data.json and show the content accordingly.
 
 ## Usage example
 
